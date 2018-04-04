@@ -48,20 +48,9 @@ a {
 
 }
 
-.voice_button {
-  width: 18px;
-  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACrElEQ…2iTnbwNT+gBX54H+IaXAtxJzE3ycSAFqSAFJACUkAikXD+AHj5/wx2o5osAAAAAElFTkSuQmCC) no-repeat -3px 0;
-    background-size: 24px 24px;
-    display: inline-block;
-    height: 23px;
-    vertical-align: middle;
-    color: #609;
-    text-align: center;
-    cursor: pointer;
-    color: #1a0dab;
-    line-height: 44px;
 
-}
+
+
 
 .bottom_part {
   width: 100%;
@@ -86,7 +75,9 @@ padding: 10px 20px;
 #search_box{
   height: 44px;
   width: 584px;
-
+  background-image: url(images/google_mic.png);
+  background-repeat: no-repeat;
+  background-color:;
 }
 
 #buttons{
@@ -140,7 +131,6 @@ padding: 10px 20px;
   float: right;
   color: ;
   border-radius: 50%;
-  background:;
 }
 
 #advertising {
