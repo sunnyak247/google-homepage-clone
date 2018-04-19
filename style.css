@@ -73,6 +73,7 @@ padding: 10px 20px;
 }
 
 #search_box{
+  font: 16px arial, sans-serif;
   height: 44px;
   width: 584px;
   background-image: url(images/google_mic.png);
